@@ -4,8 +4,8 @@ class Dog
     @breed = breed
   end
   def name=(name)
-    @name = name
-    default = "Mutt"
+    @name = "Mutt"
+    
   end
   def name
     @name
