@@ -5,6 +5,7 @@ class Dog
   end
   def name=(name)
     @name = name
+    default = "Mutt"
   end
   def name
     @name
