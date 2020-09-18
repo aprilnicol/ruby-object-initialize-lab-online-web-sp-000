@@ -19,4 +19,3 @@ end
 def breed
   @breed
 end
-
